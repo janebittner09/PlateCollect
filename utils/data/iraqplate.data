@@ -1,0 +1,6 @@
+classes = 8
+train  = data/test_iraqplate.txt
+valid  = data/train_iraqplate.txt
+names = data/iraqplate.names
+backup = iraqplate_weights/
+
